@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-[在线试玩](https://blog.onovich.com/TheArtOfDeception/)
+[在线试玩](https://game.onovich.com/TheArtOfDeception/)
 
 TheArtOfDeception 是一个雷达风微型 RTS。玩家需要部署部队、观察等高线地形，并利用战争迷雾、高低差与编组指挥击败更强的敌军。
 
