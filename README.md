@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-[Play online](https://blog.onovich.com/TheArtOfDeception/)
+[Play online](https://game.onovich.com/TheArtOfDeception/)
 
 TheArtOfDeception is a radar-styled micro RTS about deploying squads, reading contour terrain, and using fog, elevation, and formation control to defeat a larger force.
 
